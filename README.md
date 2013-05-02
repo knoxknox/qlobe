@@ -1,7 +1,7 @@
 qlobe
 =====
 
-This quine was presented at **RubyConf**.
+This quine was presented at RubyConf by **Yusuke Endoh**.<br/>
 The globe turns 45 degrees when executed and will come around eight times.
 You can make it any-degree turn by giving an integer as an command-line argument.
 
