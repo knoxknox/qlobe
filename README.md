@@ -2,9 +2,9 @@ qlobe
 =====
 
 This quine was presented at RubyConf by **Yusuke Endoh**.
-The globe turns 45 degrees when executed and will come around 8 times.
+The globe turns 45 degrees when executed and will come around eight times.
 You can make it any-degree turn by giving an integer as an command-line argument.
-The original blog post located at the following [link](http://mamememo.blogspot.com/2010/09/qlobe.html).
+The original blog post located [here](http://mamememo.blogspot.com/2010/09/qlobe.html).
 
 ## To run this code, just add this line to your terminal
 ```bash
