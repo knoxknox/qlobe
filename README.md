@@ -9,12 +9,12 @@ The original blog post is located [here](http://mamememo.blogspot.com/2010/09/ql
 ## How to run
 
 To run this code just put this line to terminal:
-```
+```ruby
 clear; for ((;;)); do for i in {1..360}; do tput cup 0 0; ruby qlobe.rb $i; sleep 0.1; done; done;
 ```
 
 This will output globe that will rotate in your terminal:
-```
+```ruby
 >                  v=0000;eval$s=%q~d=%!^Lcf<LK8,                  _@7gj*LJ=c5nM)Tp1g0%Xv.,S[<>YoP
 >                  4ZojjV)O>qIH1/n[|2yE[>:ieC       "%.#%  :::##"       97N-A&Kj_K_><wS5rtWk@*a+Y5
 >                  yH?b[F^e7C/56j|pmRe+:)B     "##%      ::##########"     O98(Zh)'Iof*nm.,$C5Nyt=
